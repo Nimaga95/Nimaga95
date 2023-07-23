@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/el-hadji-nimaga-168043128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/el-hadji-nimaga-168043128/" height="30" width="40" /></a>
 </p>
-<a href="https://discord.gg/gamani95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gamani95" height="30" width="40" /></a>
+<a align="right" href="https://discord.gg/gamani95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gamani95" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
