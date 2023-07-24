@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full stack, Node js and React js**
 
-- 💬 Ask me about **Web development, Python, C++ and js**
+- 💬 Ask me about **Web development, Python, C++ and JS**
 
 - 📫 How to reach me **djimax3@gmail.com**
 
