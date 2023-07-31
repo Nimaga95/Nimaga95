@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web development, Python, C++ and JS**
 
-- 📫 How to reach me **djimax3@gmail.com**
+- 📫 How to reach me **nimagaelhadji@gmail.com**
 
 - 📄 Know about my experiences [https://nimaga95.github.io/my_resume/](https://nimaga95.github.io/my_resume/)
 
